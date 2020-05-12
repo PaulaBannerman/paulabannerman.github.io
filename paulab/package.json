@@ -18,6 +18,7 @@
     "eject": "react-scripts eject",
     "homepage": "https://paulabannerman.github.io/paulab",
     "predeploy": "npm run build",
+    
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
