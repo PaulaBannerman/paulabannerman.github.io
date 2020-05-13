@@ -5,7 +5,7 @@ class Home extends Component {
         return (
             <div>
                 <div className="largeTitleHeader">Paula Bannerman</div>
-                <p>Developer, Artist</p>
+                <p>Developer, Artist, Designer</p>
             </div>
         );
     }
