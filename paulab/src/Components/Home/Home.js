@@ -4,7 +4,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <div className="largeTitleHeader">Paula Bannerman </div>
+                <div className="largeTitleHeader">Paula Bannerman</div>
                 <p>Developer, Artist</p>
             </div>
         );
