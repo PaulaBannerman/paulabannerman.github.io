@@ -4,7 +4,7 @@ class Navigation extends Component {
     render() {
         return (
             <div>
-                Navigation
+                Home - About - Graphic Design
             </div>
         );
     }
