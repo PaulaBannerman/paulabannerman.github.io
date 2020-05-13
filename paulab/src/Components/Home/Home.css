@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700&display=swap');
+h2 {
+    font-size: 80vw;
+    font-family: 'Julius Sans One', sans-serif;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+/* font-family: 'Julius Sans One', sans-serif;
+font-family: 'Open Sans', sans-serif; */
