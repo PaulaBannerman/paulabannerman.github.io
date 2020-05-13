@@ -5,8 +5,8 @@ import Navigation from '../Navigation/Navigation'
 function App() {
   return (
   <div>  
-    <div className="App">
     <Navigation></Navigation>
+    <div className="App">
   <Home></Home>
   {/* <header className="App-header">
     
