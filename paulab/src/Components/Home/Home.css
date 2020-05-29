@@ -14,3 +14,13 @@ p{
 }
 /* font-family: 'Julius Sans One', sans-serif;
 font-family: 'Open Sans', sans-serif; */
+
+.homeBackground {
+    text-align: center;
+    display: flex;
+    align-content: center; 
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: center;
+    min-height: 100vh;
+}
