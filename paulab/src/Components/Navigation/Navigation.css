@@ -2,3 +2,14 @@
     padding: 15px 20px;
 
 }
+
+.navBar li {
+    display: inline;
+    padding: 0 15px;
+}
+
+.navBar a {
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+}
